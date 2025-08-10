@@ -58,8 +58,8 @@ const ProductiveTeams = () => {
             {} Collaborative debugging.
           </h3>
           <pre className="bg-black/30 rounded-lg p-3 text-pink-400 text-sm overflow-x-auto">
-            const stage = document.querySelector('svg'){"\n"}
-            const hit = document.querySelector('di'){"\n"}
+            const stage = document.querySelector(&apos;svg&apos;){"\n"}
+            const hit = document.querySelector(&apos;di&apos;){"\n"}
             let mPos = {'{'}x:50, y:-50{'}'}
           </pre>
           <p className="text-sm text-gray-400 mt-2">
